@@ -2,12 +2,14 @@
 
 Wakey Wakey LAN is an Android application designed to wake up devices on your local network using Wake-on-LAN (WOL). It is optimized for Android TV (Leanback) and provides a simple way to manage and wake your computers or servers.
 
+(Created for private use so severly untested)
+
 ## Features
 
 - **Network Scanning**: Automatically discover devices on your local network using ARP scanning.
 - **Device Management**: Save discovered devices with custom names for easy access.
 - **One-Click Wake**: Send "Magic Packets" to wake up devices instantly.
-- **Home Screen Shortcuts**: Create shortcuts on your Android home screen to wake specific devices without opening the full app.
+- **Shortcuts**: Create shortcuts on your Android home screen or apps like Button Mapper to wake specific devices without opening the full app.
 - **Android TV Optimized**: Full support for Leanback UI and D-pad navigation, making it perfect for your TV.
 
 ## Getting Started
