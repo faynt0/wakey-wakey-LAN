@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.WakeyWakeyLAN" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_300</item>
+        <item name="colorPrimaryVariant">@color/brand_500</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/accent_300</item>
+        <item name="colorSecondaryVariant">@color/accent_500</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:colorBackground">@color/brand_900</item>
+        <item name="colorSurface">@color/surface_900</item>
+        <item name="colorOnSurface">@color/text_100</item>
+        <item name="android:statusBarColor">@color/brand_900</item>
+    </style>
+</resources>

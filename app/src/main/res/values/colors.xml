@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_900">#FF08111F</color>
+    <color name="brand_700">#FF17304B</color>
+    <color name="brand_500">#FF2D6CDF</color>
+    <color name="brand_300">#FF68A6FF</color>
+    <color name="accent_500">#FF25D695</color>
+    <color name="accent_300">#FF89F0C8</color>
+    <color name="surface_900">#FF0E1624</color>
+    <color name="surface_700">#FF1A2433</color>
+    <color name="surface_500">#FF283447</color>
+    <color name="text_100">#FFF5F8FF</color>
+    <color name="text_300">#FFC3D0E3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
